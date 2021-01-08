@@ -1,0 +1,66 @@
+/*nav.menu-nav ul li.btn{
+    display: inline-block;
+}
+bootstrap le fait déjà*/
+div#content{
+    background-color: black;
+}
+div#content div{
+    display: inline-block;
+    width: 48%;
+}
+div#content div h1, p, iframe{
+    margin: 35px;
+}
+div#content div.leftbox{
+    background-color: indigo;
+    vertical-align: top;
+    border-radius: 5%;
+}
+div#content div.rightbox{
+    background-color: maroon;
+    border-radius: 5%;
+}
+nav.menu-nav ul li.btn{
+    list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+nav.menu-nav ul li.btn:hover a{
+    color: black;
+    background-color: darkslategrey;
+    transition: 0.5s all;
+}
+header{
+    background-color: firebrick;
+}
+footer{
+    background-color: firebrick;
+}
+
+
+
+
+
+/*p.Bienvenue{
+    color: red;
+    background-color: black;
+}
+p.MessageCaché{
+    color: white;
+}
+body{
+    background-color: rgb(1, 12, 110);
+}
+h1.headline{
+    font-size: 50px;
+    padding-left: 500px;
+}
+a{
+    color: red;
+    opacity: 200%;
+}*/
